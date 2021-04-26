@@ -1,7 +1,7 @@
 ### Hi, my name is Robert Parsons and I am an aspiring iOS/mobile app developer!
 
 - 🎓 I graduated from Cal Poly Pomona with a degree in computer science.
-- 📱 For my senior project, I built the SEES iPhone App and SEES Admin iPad App.
+- 📱 For my senior project, I built the [SEES iPhone App](https://github.com/robertparsonsdev/SEESApp) and [SEES Admin iPad App](https://github.com/robertparsonsdev/SEESAdmin).
 - ✅ During the pandemic, I built [Forming](https://github.com/robertparsonsdev/Forming) to help me stay on top of my habits.
 - 🗣 I have a mild stutter and I hope to one day build an app to help other stutterers.
 - 📄 My Resume
