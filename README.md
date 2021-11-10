@@ -4,7 +4,7 @@
 - 📱 For my senior project, I built the [SEES iPhone App](https://github.com/robertparsonsdev/SEESApp) and [SEES Admin iPad App](https://github.com/robertparsonsdev/SEESAdmin).
 - ✅ During the pandemic, I built [Forming](https://github.com/robertparsonsdev/Forming) to help me stay on top of my habits. Find it on the [App Store](https://apps.apple.com/us/app/forming/id1511563733)!
 - 🗣 I have a mild stutter and I hope to one day build an app to help other stutterers.
-- [My Resume](https://drive.google.com/file/d/1g165C-YP2KbJhpRnXAboekwEvb9bCOCp/view?usp=sharing)
+- [My Resume](https://drive.google.com/file/d/1eDPxMWkRPLfSDIdF9sFYdVH2iQAix2J1/view?usp=sharing)
 
 #### 2021 Goals
 - Continue to learn about and sharpen my iOS development skills.
