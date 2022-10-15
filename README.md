@@ -1,5 +1,6 @@
 ### Hi, my name is Robert Parsons and I am an aspiring iOS/mobile app developer!
 
+- 🍃 I am currently a software engineer contracted by HP where I work on their internal sustainability and carbon impact reporting tool.
 - 🎓 I graduated from Cal Poly Pomona with a degree in computer science.
 - 📱 For my senior project, I built the [SEES iPhone App](https://github.com/robertparsonsdev/SEESApp) and [SEES Admin iPad App](https://github.com/robertparsonsdev/SEESAdmin).
 - ✅ During the pandemic, I built [Forming](https://github.com/robertparsonsdev/Forming) to help me stay on top of my habits. Find it on the [App Store](https://apps.apple.com/us/app/forming/id1511563733)!
@@ -14,10 +15,10 @@
 
 #### Tools and Languages
 - Swift, Xcode, UIKit, Core Data
-- C#, .NET Core, SQL
-- Firebase
+- C#, .NET Core, SQL Server, PostgreSQL
+- Firebase, AWS
 - Python, NumPy, PyTorch, Django
-- Java
+- Java, JavaScript
 
 #### Interests
 - 🕹 PC gaming 
