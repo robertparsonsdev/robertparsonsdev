@@ -11,7 +11,6 @@
 - Continue to learn about and sharpen my iOS development skills.
 - Learn SwiftUI.
 - Begin learning Android development.
-- Find employment as an iOS/mobile app developer.
 
 #### Tools and Languages
 - Swift, Xcode, UIKit, Core Data
